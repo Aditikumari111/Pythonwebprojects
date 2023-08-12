@@ -1,0 +1,26 @@
+,Symbols,Names,Prices,Change,% Change,Volume,Avg_vol(last 3 months),Market Cap,PE ratio
+1,TSLA,"Tesla, Inc.",251.45,-2.41,-0.95%,110.51M,134.442M,796.971B,81.64
+2,PLTR,Palantir Technologies Inc.,17.99,-0.21,-1.15%,104.448M,87.144M,38.111B,N/A
+3,AAPL,Apple Inc.,178.85,-3.14,-1.73%,97.264M,56.642M,2.813T,30.37
+4,AMZN,"Amazon.com, Inc.",142.22,+2.65,+1.90%,69.793M,60.89M,1.459T,338.62
+5,AMD,"Advanced Micro Devices, Inc.",116.81,+0.99,+0.85%,64.608M,71.286M,188.106B,648.94
+6,NIO,NIO Inc.,14.82,+0.10,+0.68%,53.638M,64.143M,26.359B,N/A
+7,LCID,"Lucid Group, Inc.",6.41,-0.21,-3.17%,48.209M,45.599M,14.573B,N/A
+8,F,Ford Motor Company,12.94,+0.05,+0.39%,43.753M,58.759M,51.77B,17.73
+9,T,AT&T Inc.,14.01,+0.01,+0.07%,37.552M,47.847M,100.157B,N/A
+10,RIVN,"Rivian Automotive, Inc.",24.28,-0.98,-3.88%,38.01M,49.556M,22.807B,N/A
+11,NVDA,NVIDIA Corporation,454.17,+7.37,+1.65%,32.1M,48.895M,1.122T,237.78
+12,BBD,Banco Bradesco S.A.,3.1100,-0.0200,-0.64%,30.222M,23.684M,33.047B,9.15
+13,SOFI,"SoFi Technologies, Inc.",9.39,-0.11,-1.16%,30.819M,56.114M,8.835B,N/A
+14,MARA,"Marathon Digital Holdings, Inc.",15.07,-0.76,-4.80%,29.766M,38.668M,2.561B,N/A
+15,CCL,Carnival Corporation & plc,18.04,+0.88,+5.13%,29.604M,42.435M,23.562B,N/A
+16,OPEN,Opendoor Technologies Inc.,3.4400,-0.1000,-2.82%,27.839M,25.949M,2.232B,N/A
+17,PFE,Pfizer Inc.,35.68,+0.66,+1.88%,31.045M,27.201M,201.425B,7.04
+18,AMC,"AMC Entertainment Holdings, Inc.",5.12,+0.19,+3.85%,26.592M,23.479M,4.42B,N/A
+19,BAC,Bank of America Corporation,31.88,+0.58,+1.85%,31.345M,45.552M,253.559B,9.16
+20,WBD,"Warner Bros. Discovery, Inc.",14.47,+0.50,+3.58%,27.601M,22.082M,35.251B,N/A
+21,DNA,"Ginkgo Bioworks Holdings, Inc.",2.0800,+0.0400,+1.96%,23.189M,23.995M,4.338B,N/A
+22,JBLU,JetBlue Airways Corporation,6.47,-0.21,-3.14%,23.343M,13.581M,2.122B,N/A
+23,ITUB,Itaú Unibanco Holding S.A.,5.62,-0.06,-1.06%,21.884M,19.564M,55.076B,8.65
+24,PCG,PG&E Corporation,17.42,+0.34,+1.99%,23.667M,17.688M,40.863B,19.57
+25,PYPL,"PayPal Holdings, Inc.",64.42,+1.67,+2.66%,23.074M,19.572M,71.874B,27.77
