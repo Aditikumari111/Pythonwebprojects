@@ -1,4 +1,4 @@
-# Python web projects
+# Python web scraping projects
 PROJECT NAME: 
 Web Scraping and Data Extraction from Yahoo! Finance for Market Analysis
 
