@@ -1,0 +1,30 @@
+Web Scraping and Data Extraction from Yahoo! Finance for Market Analysis
+
+
+OBJECTIVE
+Scraped Yahoo! Finance website https://finance.yahoo.com/  to obtain market data related toSymbols,  Names, Prices, Change, % Change, Volume, Avg_vol(last 3 months), Market Cap and PE ratio of the 25 most active stocks.
+
+TECHNOLOGIES 
+
+Python 3.11.3
+
+Python Modules
+
+* BeautifulSoup4
+    * Allows a web page to be scraped (parses its HTML or XML)
+* requests
+    * Allows sending HTTP requests
+* pandas — Allows the data to be aligned in a tabular fashion in rows and columns
+
+
+CHALLENGES:
+Parsing Complex HTML Structure: The structure of Yahoo! Finance's website required understanding and navigating through complex HTML tags for data extraction.
+
+Resolution: To tackle this challenge, I invested time in learning HTML and CSS, the fundamental languages that websites are built upon. By understanding HTML and CSS, I was able to navigate through the complex website structure and successfully gather the market data for the most active stocks. This experience not only improved my web scraping skills but also expanded my understanding of web technologies.
+
+
+RESULTS:
+ 
+- Successfully scraped market data for the 25 most active stocks from Yahoo! Finance website.
+
+- Obtained key financial information, including Prices, Change, % Change, Volume, Avg_vol (last 3 months), Market Cap, and PE ratio.
